@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="17" height="17" viewBox="0 0 17 17">
+  <defs>
+    <style>
+      .cls-1 {
+        stroke: #ffffff;
+        stroke-linejoin: round;
+        stroke-width: 3px;
+        filter: url(#filter);
+      }
+    </style>
+    <filter id="filter" x="-1.5" y="-1.5" width="20" height="20" filterUnits="userSpaceOnUse">
+      <feFlood result="flood" flood-color="#7eae29"/>
+      <feComposite result="composite" operator="in" in2="SourceGraphic"/>
+      <feBlend result="blend" in2="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g filter="url(#filter)">
+    <circle id="Shape_1_copy_4" data-name="Shape 1 copy 4" class="cls-1" cx="8.515" cy="8.515" r="4.984" style="stroke: inherit; filter: none; fill: inherit"/>
+  </g>
+  <use xlink:href="#Shape_1_copy_4" style="stroke: #fff; filter: none; fill: none"/>
+</svg>

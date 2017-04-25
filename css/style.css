@@ -1,0 +1,23 @@
+body {
+  font-size: 15px;
+  line-height: 30px;
+  font-family: "Open Sans", sans-serif;
+  font-weight: normal;
+  color: #464646;
+}
+
+.title {
+  font-family: "Gilroy", sans-serif;
+  font-weight: bold;
+  font-size: 47px;
+  line-height: 1.2;
+  color: black;
+}
+
+.logo {
+  font-family: "Gilroy", sans-serif;
+  font-weight: bold;
+  font-size: 48px;
+  line-height: 1.2;
+  color: black;
+}
